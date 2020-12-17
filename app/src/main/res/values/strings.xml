@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WEBIM_SQLITE</string>
+    <string name="title_of_note">Title of note</string>
+    <string name="description_of_note">Description of note</string>
+    <string name="add_note">add note</string>
+    <string name="some_title">Some Title</string>
+</resources>

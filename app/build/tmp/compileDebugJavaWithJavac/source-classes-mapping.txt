@@ -1,0 +1,17 @@
+com/example/webim_sqlite/NoteDBHelper.java
+ com.example.webim_sqlite.NoteDBHelper
+com/example/webim_sqlite/BuildConfig.java
+ com.example.webim_sqlite.BuildConfig
+com/example/webim_sqlite/NoteAdapter.java
+ com.example.webim_sqlite.NoteAdapter
+ com.example.webim_sqlite.NoteAdapter$1
+ com.example.webim_sqlite.NoteAdapter$Listener
+ com.example.webim_sqlite.NoteAdapter$NoteViewHolder
+com/example/webim_sqlite/NoteDescDialog.java
+ com.example.webim_sqlite.NoteDescDialog
+ com.example.webim_sqlite.NoteDescDialog$1
+com/example/webim_sqlite/MainActivity.java
+ com.example.webim_sqlite.MainActivity
+ com.example.webim_sqlite.MainActivity$1
+ com.example.webim_sqlite.MainActivity$2
+ com.example.webim_sqlite.MainActivity$3
